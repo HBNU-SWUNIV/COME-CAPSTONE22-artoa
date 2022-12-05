@@ -5,12 +5,12 @@
 - 20191753 전영주
 - 20171591 이용혁
 
-## <u>Teamate</u> Project Background
+## <u>SmartHelmet</u> Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - 인권 강화 및 작업자 사망 시 대표가 책임을 지는 중대 재해 처벌법 강화
+  - 
 - ### 기존 해결책의 문제점
-  - OOO
+  - 사고 발생 시 빠른 판단과 대처가 어려웠음
   - OOO
   
 ## System Design
