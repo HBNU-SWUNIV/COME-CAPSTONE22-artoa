@@ -12,7 +12,6 @@
   - 발전하는 인권 강화 및 작업자 사망 시 대표가 책임을 지는 중대 재해 처벌법이 2022년 1월 27일부터 시행되며 안전 예방 강화의 중요성이 대두됨
 - ### 기존의 문제점
   - 현장에서 사고 발생 시 빠른 판단과 대처가 어려웠기 때문에 피해의 규모가 어느 정도인지 현장 외에서는 즉각 파악이 어려웠음
-  - 
   
 ## System Design
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=black"/>   <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=black"/>   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
@@ -31,8 +30,9 @@
   
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  - ### 케이스 사진과 안드로이드 앱 작동 사진
+    - ㄱ
+  - ### 
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 제외
