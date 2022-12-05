@@ -15,9 +15,10 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
-    
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black"/>
+
 ## Case Study
   - ### Description
   
