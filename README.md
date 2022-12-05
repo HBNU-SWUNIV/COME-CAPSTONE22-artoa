@@ -9,7 +9,7 @@
 - ### 필요성
  <img width="245" alt="중대재해처벌법2" src="https://user-images.githubusercontent.com/96764364/205545794-c0730f80-c860-4e98-b06a-9bba336b460f.png"> <img width="290" alt="중대재해처벌법" src="https://user-images.githubusercontent.com/96764364/205548362-2ff68bba-8322-440f-9ed2-d8e97c302dec.png">
  
- -출처: https://www.joongang.co.kr/article/25010300#home <br/>https://angelswing.io/blog/insight-occupational-safety-and-health-act/
+ -출처 <br/>https://www.joongang.co.kr/article/25010300#home <br/>https://angelswing.io/blog/insight-occupational-safety-and-health-act/
 
   - 발전하는 인권 강화 및 작업자 사망 시 대표가 책임을 지는 중대 재해 처벌법이 2022년 1월 27일부터 시행되며 안전 예방 강화의 중요성이 대두됨
 - ### 기존의 문제점
