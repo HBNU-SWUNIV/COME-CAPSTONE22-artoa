@@ -18,3 +18,4 @@
 - 안드로이드 스튜디오 상단에서 Build-Build Bundle(s) / APK(s) - Build APK(s)로 APK 파일 추출
 - 우측 하단의 Build APK(s)창에서 locate를 눌러 APK 파일이 저장된 위치 확인
 - 어플을 설치할 휴대폰으로 APK 파일을 설치하고, 라즈베리파이와 동일한 IP에 연결 후 어플리케이션 실행
+** 참고 코드 https://sonjuhy.tistory.com/36
