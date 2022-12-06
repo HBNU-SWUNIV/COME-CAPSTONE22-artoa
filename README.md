@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=black"/>   <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=black"/>   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
 
 - ### System Requirements
-  - Arduino IDE로 ESP wroom 32 메인보드의 데이터 전송 환경 구축
+  - Arduino IDE로 ESP wroom 32 메인보드의 데이터 전송 환경(BLE) 구축
   - Raspberry Pi로 Bleak 모듈 및 MQTT를 활용해 데이터 송수신 환경 구축
   - Android Studio로 수신 받은 데이터를 모니터링 할 Application 구축
   
