@@ -32,9 +32,12 @@
   
   
 ## Conclusion
-  - ### 케이스 사진과 안드로이드 앱 작동 사진
-    - ㄱ
-  - ### 
+  - #### 메인보드 및 센서 구조
+      ![구조](https://user-images.githubusercontent.com/96764364/205832424-a36b0513-75ce-422b-b32b-310f44d2abde.jpg)
+  - #### 메인 케이스 및 가스 센서 케이스
+      ![케이스](https://user-images.githubusercontent.com/96764364/205832392-c8936c7d-c57c-4ed5-a551-2df5a82ad107.jpg)
+  - #### 모바일 앱 작동 화면
+      ![작동화면](https://user-images.githubusercontent.com/96764364/205832442-ff7c6295-78b8-4d15-be5f-65cd7bac59bc.jpg)
   
 ## Project Outcome
 - ### -
