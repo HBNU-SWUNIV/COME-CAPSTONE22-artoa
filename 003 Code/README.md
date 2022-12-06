@@ -9,7 +9,7 @@
 # ESP32
  - 아두이노 IDE 설치 후 상단의 파일 > 환경설정에서 추가적인 보드 매니저 URLs 끝의 버튼 클릭
  - https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 추가 후 확인
- - 상단 툴 > 보드:__ > 보드 매니저... 선택 후 ESP32 입력, esp32 by Espressif System 설치
+ - 메인보드 연결 후 상단 툴 > 보드:__ > 보드 매니저... 선택 후 ESP32 입력, esp32 by Espressif System 설치
  - 설치 후 상단 툴 > 보드:__ > ESP32 Dev Module 선택, 코드 작성
  - 코드 업로딩 후 실행되면 상단 우측 시리얼 모니터를 열어 가스 센서 작동 확인 후 라즈베리파이와 연결 대기
 
