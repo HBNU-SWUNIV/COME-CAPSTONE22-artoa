@@ -26,24 +26,30 @@
   - Android Studio로 Raspberry Pi로부터 수신 받은 데이터를 모니터링 할 Application 구축
   
   
-  <img width="373" alt="안전모" src="https://user-images.githubusercontent.com/96764364/205545231-fa3c192d-b644-407f-8be1-7bc86ff3c058.png">
+  ![구성도](https://user-images.githubusercontent.com/96764364/206141817-3c6733fb-a367-4f13-ad89-1a889ce1421f.png)
 
 
 ## Case Study
-  - ### Description
+  - ### 추가 예정
   
   
 ## Conclusion
   - #### 메인보드 및 센서 구조
-      ![구조](https://user-images.githubusercontent.com/96764364/205832424-a36b0513-75ce-422b-b32b-310f44d2abde.jpg)
+      ![보드](https://user-images.githubusercontent.com/96764364/206141809-2a037e86-0a0e-43d3-89d8-765317662e2e.png)
       
-      - 무게 최소화를 위한 이온 리튬 폴리머 배터리를 사용, 충전 단자를 위한 보호 충전 모듈 연결
-      
+      - ESP32 보드에 충격 센서(SW-420)와 가스 센서(MQ-7)를 연결
+      - 무게 최소화를 위한 이온 리튬 폴리머 배터리 사용
+      - 충전 단자를 위한 보호 충전 모듈 연결
+
   - #### 메인 케이스 및 가스 센서 케이스
-      ![케이스](https://user-images.githubusercontent.com/96764364/205832392-c8936c7d-c57c-4ed5-a551-2df5a82ad107.jpg)
+      <img width="229" alt="가스케이스1" src="https://user-images.githubusercontent.com/96764364/206144704-3310c6e1-0ec2-4519-b0e0-7fd612479e04.png">     <img width="229" alt="메인케이스1" src="https://user-images.githubusercontent.com/96764364/206144444-b2bb1de7-fb6c-4255-a785-1ca8ce2ce736.png">
+
+      - 3D printing 맞춤 케이스 제작
   - #### 모바일 앱 작동 화면
-      ![작동화면](https://user-images.githubusercontent.com/96764364/205832442-ff7c6295-78b8-4d15-be5f-65cd7bac59bc.jpg)
+      <img width="185" alt="화면1" src="https://user-images.githubusercontent.com/96764364/206146657-5dc538d4-d7ed-4cf6-ba82-80159b7ccb3c.png"> <img width="185" alt="화면2" src="https://user-images.githubusercontent.com/96764364/206146668-c9fa72bf-0b41-429d-b392-87ab2d180e44.png">
       
+
+      - 위험 수치에 도달하면 '일정 이상의 충격(또는 가스)이 발생했습니다' 알림 표
       - 센서부에서 감지 시 수치가 오르며, 일정 치 이상일 경우 경고 & 모바일 알람 발생
       
   - #### 활용 방안
