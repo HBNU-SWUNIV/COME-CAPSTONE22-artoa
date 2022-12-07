@@ -47,7 +47,7 @@
     <img width="283" alt="측정2" src="https://user-images.githubusercontent.com/96764364/206150814-42d6b072-8bd2-4bca-8e81-72d4387dbbdf.png">
 
     <img width="304" alt="측정3" src="https://user-images.githubusercontent.com/96764364/206150826-fda8d4bf-bcda-48b6-8c9c-9eb36ddf3fed.png"> 
-     <br/>
+     
      - 메인보드와 Raspberry pi를 BLE 연결하여 데이터 수신
      - Raspberry pi와 Android Studio를 MQTT로 연결하여 데이터 송수신
 
