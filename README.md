@@ -29,10 +29,11 @@
   
   ![구성도](https://user-images.githubusercontent.com/96764364/206141817-3c6733fb-a367-4f13-ad89-1a889ce1421f.png)
 
-
+///S.B. Pan, J.H. Moon “Technology Trends of the Fingerprint Recognition” Electronics and Telecommunications Trends(ETRI), Vol. 16, No. 5, 2020
 ## Case Study
-  - ### 추가 예정
-  
+  - D.G. Lee, W.B. Kim, J.S. Kim, S.G. Lim, K.S. Gong "Smart Safety Helmet Using Arduino" The journal of the institute of internet, broadcasting and communication, v.19 no.1, 2019
+  - G.B. Seo, S.D. Min, S.H. Lee, M. Hong, "Design and Implementation of Construction site Safety management System using Smart Helmet and BLE Beacons" Journal of Internet Computing and Services, v.20 no.3, 2019
+  - H.W. Ahn, N.I. Park, S.M. Kim, D.H. Oh, "Development of Smart Helmet based on Realtime Information" The 2017 Spring Conference of the Korean Society for Information Processing 2017 April. 27, 2017
   
 ## Conclusion
   - #### 메인보드 및 센서 구조
