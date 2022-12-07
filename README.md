@@ -11,12 +11,10 @@
  
  출처 <br/>https://www.joongang.co.kr/article/25010300#home <br/>https://angelswing.io/blog/insight-occupational-safety-and-health-act/
 
-  - 인권 강화 및 작업자 사망 시 대표가 책임을 지는 중대 재해 처벌법이 2022년 1월 27일부터 시행되며 안전 예방 강화의 중요성이 대두되었습니다.
-  - 이에 근로자가 위험 상황에 처했을 때, 추가 피해가 발생하기 전 빠른 조치를 하기 위한 플랫폼 기술의 확보가 필요하다고 여겨 본 프로젝트를 진행하였습니다.
-- ### 기존의 문제점
-  - 현장에서 사고 발생 시 빠른 판단과 대처가 어려웠기 때문에 피해의 규모가 어느 정도인지 현장 외에서는 즉각 파악이 어려웠습니다.
-  - 관련 제품들이 있었으나 과한 무게, 메인 보드와 센서의 전력 문제로 인한 대용량 배터리의 필수성 등이 문제되었습니다.
-  
+  - 인권 강화 및 작업자 사망 시 대표가 책임을 지는 중대 재해 처벌법이 2022년 1월 27일부터 시행되며 안전 예방 강화의 중요성이 대두되었습니다. 또한 현장에서 사고 발생 시 외부에서 상황 파악 및 빠른 대처가 어려웠던 점을 고려하여 근로자가 위험 상황에 처했을 때 추가 피해가 발생하기 전 빠른 조치를 위한 플랫폼 기술의 확보가 필요하다고 여겨 본 프로젝트를 진행하였습니다.
+  - 장기간 작업 환경을 고려하여 작은 크기와 무게의 장치 구성을 필요로 하였습니다.
+
+
 ## System Design
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=black"/>   <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=black"/>   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
 
