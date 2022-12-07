@@ -12,6 +12,13 @@
  - 메인보드 연결 후 상단 툴 > 보드:__ > 보드 매니저... 선택 후 ESP32 입력, esp32 by Espressif System 설치
  - 설치 후 상단 툴 > 보드:__ > ESP32 Dev Module 선택, 코드 작성
  - 코드 업로딩 후 실행되면 상단 우측 시리얼 모니터를 열어 가스 센서 작동 확인 후 라즈베리파이와 연결 대기
+ 
+# Raspberry pi
+ - 아래의 참고 코드를 따라 Raspberry pi 설정
+ - helmet1, helmet2 파일의 ip 부분을 Raspberry pi의 ip 주소로 수정
+ - ESP32와 Android Studio가 실행되면 파일 실행
+ - ** 참고 코드 https://fishpoint.tistory.com/3430
+ - ** 참고 코드 https://bradheo.tistory.com/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-mqtt-%EB%B8%8C%EB%A1%9C%EC%BB%A4-mosquitto-%EC%84%A4%EC%B9%98
 
 # Android Studio
 - helmet01.java 와 helmet02.jave 파일에서 connectMqtt() 클래스 내에 있는 mqttClient(n) 변수의 IP를 연결된 WIFI의 IP로 변경하여 저장
