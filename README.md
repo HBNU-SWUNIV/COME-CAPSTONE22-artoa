@@ -16,9 +16,6 @@
   - 이에 근로자가 위험 상황에 처했을 때, 추가 피해가 발생하기 전 빠른 조치를 하기 위한 플랫폼 기술의 확보가 필요하다고 여겨 본 프로젝트를 진행하였습니다.
   - 추가로 안전모의 무게를 고려하여 작은 크기의 장치 구성을 필요로 하였습니다.
 
-Arduino, BLE, Raspberry pi, Linux, Python, MQTT, Android Studio, Java
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
-
 ## System Design
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=black"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=black"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=black"/> <img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -49,18 +46,21 @@ Arduino, BLE, Raspberry pi, Linux, Python, MQTT, Android Studio, Java
     <img width="86" alt="측정1" src="https://user-images.githubusercontent.com/96764364/206150803-e0fe1287-19ad-40a5-9151-9c2bfcabc885.png">
     <img width="283" alt="측정2" src="https://user-images.githubusercontent.com/96764364/206150814-42d6b072-8bd2-4bca-8e81-72d4387dbbdf.png">
 
-    <img width="304" alt="측정3" src="https://user-images.githubusercontent.com/96764364/206150826-fda8d4bf-bcda-48b6-8c9c-9eb36ddf3fed.png">
-     
+    <img width="304" alt="측정3" src="https://user-images.githubusercontent.com/96764364/206150826-fda8d4bf-bcda-48b6-8c9c-9eb36ddf3fed.png"> 
+     <br/>
+     - 메인보드와 Raspberry pi를 BLE 연결하여 데이터 수신
+     - Raspberry pi와 Android Studio를 MQTT로 연결하여 데이터 송수신
 
- - #### 케이스 제작
-   <img width="229" alt="메인케이스1" src="https://user-images.githubusercontent.com/96764364/206144444-b2bb1de7-fb6c-4255-a785-1ca8ce2ce736.png"> <img width="229" alt="가스케이스1" src="https://user-images.githubusercontent.com/96764364/206144704-3310c6e1-0ec2-4519-b0e0-7fd612479e04.png">
-      - 3D printing 맞춤 케이스 제작
+
   - #### 모바일 앱 작동 화면
       <img width="185" alt="화면1" src="https://user-images.githubusercontent.com/96764364/206146657-5dc538d4-d7ed-4cf6-ba82-80159b7ccb3c.png"> <img width="185" alt="화면2" src="https://user-images.githubusercontent.com/96764364/206146668-c9fa72bf-0b41-429d-b392-87ab2d180e44.png">
-      
 
       - 센서부에서 충격 및 유해 가스 감지 시 수치가 오르며, 일정 이상이 감지될 경우 경고
       - 위험 수치에 도달하면 '일정 이상의 충격(또는 가스)이 발생했습니다' 푸시 알림 생성
+      
+  - #### 케이스 제작
+     <img width="229" alt="메인케이스1" src="https://user-images.githubusercontent.com/96764364/206144444-b2bb1de7-fb6c-4255-a785-1ca8ce2ce736.png"> <img width="229" alt="가스케이스1" src="https://user-images.githubusercontent.com/96764364/206144704-3310c6e1-0ec2-4519-b0e0-7fd612479e04.png"> <br/>
+    - 3D printing 맞춤 케이스 제작
       
   - #### 활용 방안
       - 기존 센서 외에도 다양한 소형 센서 모듈을 별도 연결하여 업데이트 및 유지 보수 가능
